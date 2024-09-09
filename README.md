@@ -11,7 +11,6 @@ I am currently working on:<br>🖥️ Building responsive and user-friendly web 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=i-am-gk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=i-am-gk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-gk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
