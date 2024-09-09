@@ -19,7 +19,7 @@ I am currently working on:<br>🖥️ Building responsive and user-friendly web 
 ![](https://github-contributor-stats.vercel.app/api?username=i-am-gk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/GK127) 
+  [![Patreon]([https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/GK127](https://www.patreon.com/GK127?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
