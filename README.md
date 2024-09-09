@@ -18,8 +18,9 @@ I am currently working on:<br>🖥️ Building responsive and user-friendly web 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=i-am-gk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](patreon.com/GK127) 
+ ## 💰 You can help me by Donating
+[![Patreon](https://img.shields.io/badge/Patreon-Support%20Me-orange)](https://www.patreon.com/GK127)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
